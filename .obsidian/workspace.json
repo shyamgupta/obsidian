@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "17836110e45618b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "23fcb4a28123115d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a8eb86ad0cfc10e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LangChain/3. LangChain Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. LangChain Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6889a0e7d20e8c17",
+    "type": "split",
+    "children": [
+      {
+        "id": "025e4f03da104309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd0bbc1c7bd3a05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "95084789e77e82e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dc4198721cc8a776",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c92c421d4cccd874",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b6229fdb6e610e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "436af88954e9df03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LangChain/3. LangChain Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3. LangChain Introduction"
+            }
+          },
+          {
+            "id": "152688d4e12f7788",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LangChain/3. LangChain Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3. LangChain Introduction"
+            }
+          },
+          {
+            "id": "0c72c679f0642a6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78b7ed2199678879",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1aa7c074e17a702c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LangChain/3. LangChain Introduction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3. LangChain Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2a8eb86ad0cfc10e",
+  "lastOpenFiles": [
+    "images/Pasted image 20260222174810.png",
+    "images",
+    "Pasted image 20260222174713.png",
+    "LangChain/2. Environment Setup.md",
+    "LangChain/3. LangChain Introduction.md",
+    "LangChain/1. OpenAI Fundamentals.md",
+    "GenAI/LangChain.md",
+    "Untitled.canvas",
+    "LangChain",
+    "GenAI/Introduction.md",
+    "Pasted image 20260221181755.png",
+    "Welcome.md",
+    "GenAI"
+  ]
+}

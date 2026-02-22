@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LangChain/3. LangChain Introduction.md",
+                "file": "Table of Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. LangChain Introduction"
+              "title": "Table of Contents"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LangChain/3. LangChain Introduction.md",
+                "file": "Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. LangChain Introduction"
+              "title": "Backlinks for Table of Contents"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LangChain/3. LangChain Introduction.md",
+                "file": "Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. LangChain Introduction"
+              "title": "Outgoing links from Table of Contents"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LangChain/3. LangChain Introduction.md",
+                "file": "Table of Contents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. LangChain Introduction"
+              "title": "Outline of Table of Contents"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "2a8eb86ad0cfc10e",
   "lastOpenFiles": [
-    "TOC.md.md",
-    "GenAI/LangChain.md",
     "LangChain/3. LangChain Introduction.md",
+    "Table of Contents.md",
+    "GenAI/LangChain.md",
     "images/Pasted image 20260222174810.png",
     "images",
     "Pasted image 20260222174713.png",
